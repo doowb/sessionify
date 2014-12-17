@@ -1,0 +1,33 @@
+{
+  "name": "sessionify",
+  "description": "Easily bind functions, Event Emitters, and Streams to a session cache.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/doowb/sessionify",
+  "author": {
+    "name": "Brian Woodward",
+    "url": "https://github.com/doowb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/doowb/sessionify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doowb/sessionify/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/doowb/sessionify/blob/master/LICENSE-MIT"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": []
+}
