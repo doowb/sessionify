@@ -27,7 +27,9 @@
   },
   "devDependencies": {
     "mocha": "*",
-    "should": "*"
+    "session-cache": "^0.1.2",
+    "should": "*",
+    "through2": "^0.6.3"
   },
   "keywords": []
 }

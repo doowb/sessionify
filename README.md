@@ -22,7 +22,15 @@ var sessionify = require('sessionify');
 ```
 
 ## API
+### [sessionify](index.js#L23)
 
+* `fn` **{Function|EventEmitter|Stream}**: Object to bind to.    
+* `session` **{Object}**: session-cache object to bind with.    
+* `context` **{Object}**: Optional context to bind to the sesssion.    
+* `returns` **{*}**: Bound object  
+
+Bind a function, EventEmitter, or Stream to the provided session object
+with an optional context.
 
 ## Contributing
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/doowb/sessionify/issues)

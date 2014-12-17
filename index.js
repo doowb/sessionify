@@ -17,6 +17,7 @@ module.exports = sessionify;
  * @param  {Object} `session` session-cache object to bind with.
  * @param  {Object} `context` Optional context to bind to the sesssion.
  * @return {*} Bound object
+ * @api public
  */
 
 function sessionify (fn, session, context) {
