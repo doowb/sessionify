@@ -1,8 +1,8 @@
 /*!
  * sessionify <https://github.com/doowb/sessionify>
  *
- * Copyright (c) 2014 Brian Woodward, contributors.
- * Licensed under the MIT license.
+ * Copyright (c) 2014-2015, Brian Woodward.
+ * Licensed under the MIT License.
  */
 
 'use strict';
