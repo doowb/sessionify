@@ -1,7 +1,7 @@
 {
   "name": "sessionify",
   "description": "Easily bind functions, Event Emitters, and Streams to a session cache.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/doowb/sessionify",
   "author": {
     "name": "Brian Woodward",
